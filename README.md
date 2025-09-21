@@ -30,7 +30,7 @@ This project was created as a way to test [Claude Code](https://claude.ai/code) 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/miney.git
+git clone https://github.com/migvas/miney.git
 cd miney
 ```
 
