@@ -30,8 +30,8 @@ This project was created as a way to test [Claude Code](https://claude.ai/code) 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/migvas/miney.git
-cd miney
+git clone https://github.com/migvas/miney-expense-tracker.git
+cd miney-expense-tracker
 ```
 
 2. Install dependencies:
